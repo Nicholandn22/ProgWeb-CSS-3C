@@ -1,0 +1,121 @@
+html{
+    background-color: #fae3ae
+    ;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+}
+#bakery{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#profil{
+    width: 30px;
+    height: 30px;
+    float: left;
+    padding-left: 20px;
+}
+body{
+    margin: 0%;
+    /* padding-bottom: 80px; */
+}
+header{
+    text-align: center;
+    background-color: #ef9f55;
+    padding: 10px;
+    width: 100%;
+    position: sticky;
+    top:0%
+    
+   
+
+}
+#judulArtikel{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size:larger;
+    
+}
+aside img{
+    position:absolute;
+    /* display: inline; */
+    height: 650px;
+    width: 30%;
+    padding: 10px;
+    left: 35%;
+    /* right: auto; */
+
+}
+#ddu_du_ddu_du{
+    float: left;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+}
+img{
+    border-radius: 20px;
+}
+h3{
+    color:#ef9f55 ;
+}
+
+#call img{
+    float: right;
+    padding: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: Beige;
+    border-radius: 200%;
+    position: absolute;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    margin: 30px;
+    margin-bottom: 50px;
+}
+.article-top{
+    overflow: auto;
+    background-color: Beige;
+    width: 30%;
+    border-radius: 10px;
+    margin: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    padding-right:  10px;
+    float: left;
+    margin-bottom: 200px;
+    margin-top: 10%;
+}
+.article-bottom{
+    float: right;
+    width: 500px;
+    height: 200px;
+    background-color: Peachpuff; 
+    margin-right:20px;
+    border-radius: 10px;
+    padding: 20px;
+    overflow:auto;
+    width: 200px;
+    margin-top:15%
+}
+#footerText{
+    text-align: center;
+    background-color: #ef9f55;
+    width: 100%;
+    padding: 50px;
+    clear: both;
+}
+    
+.article-top h3:nth-child(1){
+    margin-left: 140px;
+}
+
+
+
+
